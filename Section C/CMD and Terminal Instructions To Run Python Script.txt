@@ -1,0 +1,2 @@
+python Test.py SayNumTestCase.test_numberToWord
+python main.py
